@@ -1,0 +1,6 @@
+{
+  "name": "생활 속 미생물 7주차 퀴즈",
+  "description": "대학교 교양 과목 «생활 속 미생물» 7주차(발효 식품과 미생물) 비전공 학생 대상 모바일 친화형 복습 퀴즈 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
